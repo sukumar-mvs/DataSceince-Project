@@ -1,2 +1,2 @@
 # DataSceince-Project
-This is for Data Sceince Project
+This is for Data Science Project
